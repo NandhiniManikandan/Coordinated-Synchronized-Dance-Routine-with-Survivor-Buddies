@@ -1,0 +1,1 @@
+python3 ./src/lab_4.py

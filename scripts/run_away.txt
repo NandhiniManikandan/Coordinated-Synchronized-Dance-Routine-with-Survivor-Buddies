@@ -1,0 +1,9 @@
+reset 0 _ 1
+reset 1 _ 1
+reset 2 _ 1
+reset 3 _ 1
+wait 1
+lean 0 -60 2
+lean 1 -60 2
+lean 2 -60 2
+lean 3 -60 2

@@ -1,0 +1,189 @@
+reset 0 _ 0
+reset 1 _ 0
+reset 2 _ 0
+reset 3 _ 0
+wait 2
+twist 0 60 0
+twist 1 60 0
+twist 2 60 0
+twist 3 60 0
+wait 2
+twist 0 0 0
+twist 1 0 0
+twist 2 0 0
+twist 3 0 0
+wait 2
+twist 0 -60 0
+twist 1 -60 0
+twist 2 -60 0
+twist 3 -60 0
+wait 2
+twist 0 0 0
+twist 1 0 0
+twist 2 0 0
+twist 3 0 0
+turn 0 90 0
+turn 1 90 0
+turn 2 90 0
+turn 3 90 0
+wait 2
+lean_and_twist 0 25 0
+lean_and_twist 1 -25 0
+lean_and_twist 2 25 0
+lean_and_twist 3 -25 0
+wait 1
+twist 0 0 0
+twist 1 0 0
+twist 2 0 0
+twist 3 0 0
+wait 0.25
+twist 0 25 0
+twist 1 -25 0
+twist 2 25 0
+twist 3 -25 0
+wait 1.75
+lean_and_twist 0 50 0
+lean_and_twist 1 -50 0
+lean_and_twist 2 50 0
+lean_and_twist 3 -50 0
+wait 1
+twist 0 25 0
+twist 1 -25 0
+twist 2 25 0
+twist 3 -25 0
+wait 0.25
+twist 0 50 0
+twist 1 -50 0
+twist 2 50 0
+twist 3 -50 0
+wait 1.75
+lean_and_twist 0 -25 0
+lean_and_twist 1 25 0
+lean_and_twist 2 -25 0
+lean_and_twist 3 25 0
+wait 1
+twist 0 0 0
+twist 1 0 0
+twist 2 0 0
+twist 3 0 0
+wait 0.25
+twist 0 -25 0
+twist 1 25 0
+twist 2 -25 0
+twist 3 25 0
+wait 1.75
+lean_and_twist 0 -50 0
+lean_and_twist 1 50 0
+lean_and_twist 2 -50 0
+lean_and_twist 3 50 0
+wait 1
+twist 0 -25 0
+twist 1 25 0
+twist 2 -25 0
+twist 3 25 0
+wait 0.25
+twist 0 -50 0
+twist 1 50 0
+twist 2 -50 0
+twist 3 50 0
+wait 1.75
+lean_and_twist 0 0 0
+lean_and_twist 1 0 0
+lean_and_twist 2 0 0
+lean_and_twist 3 0 0
+lean_and_twist 0 -15 0.5
+lean_and_twist 1 -30 1
+lean_and_twist 2 -45 1.5
+lean_and_twist 3 -60 1.9
+wait 3
+twist 0 0 0
+twist 1 -15 0
+twist 2 -30 0
+twist 3 -45 0
+wait 0.25
+twist 0 -15 0
+twist 1 -30 0
+twist 2 -45 0
+twist 3 -60 0
+wait 0.75
+lean_and_twist 0 0 0
+lean_and_twist 1 0 0
+lean_and_twist 2 0 0
+lean_and_twist 3 0 0
+lean_and_twist 0 15 0.5
+lean_and_twist 1 30 1
+lean_and_twist 2 45 1.5
+lean_and_twist 3 60 1.9
+wait 3
+twist 0 0 0
+twist 1 15 0
+twist 2 30 0
+twist 3 45 0
+wait 0.25
+twist 0 15 0
+twist 1 30 0
+twist 2 45 0
+twist 3 60 0
+wait 0.75
+reset 0 _ 0
+reset 1 _ 0
+reset 2 _ 0
+reset 3 _ 0
+lean_and_tilt 0 -45 0.25
+lean_and_tilt 1 45 0.25
+lean_and_tilt 2 -45 0.25
+lean_and_tilt 3 45 0.25
+wait 1
+twist 0 30 0
+twist 1 30 0
+twist 2 30 0
+twist 3 30 0
+wait 0.5
+twist 0 -30 0
+twist 1 -30 0
+twist 2 -30 0
+twist 3 -30 0
+wait 0.5
+twist 0 30 0
+twist 1 30 0
+twist 2 30 0
+twist 3 30 0
+wait 0.5
+twist 0 -30 0
+twist 1 -30 0
+twist 2 -30 0
+twist 3 -30 0
+wait 0.5
+twist 0 30 0
+twist 1 30 0
+twist 2 30 0
+twist 3 30 0
+wait 0.5
+twist 0 -30 0
+twist 1 -30 0
+twist 2 -30 0
+twist 3 -30 0
+wait 0.5
+twist 0 30 0
+twist 1 30 0
+twist 2 30 0
+twist 3 30 0
+wait 0.5
+twist 0 0 0
+twist 1 0 0
+twist 2 0 0
+twist 3 0 0
+wait 0.5
+turn_and_twist 0 -90 0.25
+turn_and_twist 1 -90 0.25
+turn_and_twist 2 -90 0.25
+turn_and_twist 3 -90 0.25
+turn_and_twist 0 90 0.5
+turn_and_twist 1 90 0.5
+turn_and_twist 2 90 0.5
+turn_and_twist 3 90 0.5
+turn_and_twist 0 0 0.25
+turn_and_twist 1 0 0.25
+turn_and_twist 2 0 0.25
+turn_and_twist 3 0 0.25
+wait 2

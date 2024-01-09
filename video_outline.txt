@@ -1,0 +1,8 @@
+concern: awaken
+dance_1_thriller: all head tilt
+dance_2_line: mirrored lean
+dance_3_hinge: sleep position
+face_turns: face turns
+dance_4_turns: face tracking
+thriller chorus: mirrored face turning
+thriller chorus: mirrored face turning

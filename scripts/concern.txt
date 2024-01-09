@@ -1,0 +1,9 @@
+lean 0 0 5
+lean 1 0 5
+lean 2 0 5
+lean 3 0 5
+wait 2
+turn 0 90 3 
+turn 1 90 3
+turn 2 90 3
+turn 3 90 3

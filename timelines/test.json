@@ -1,0 +1,12 @@
+{
+	"source":"None",
+	"temporal_waypoints":[
+		{
+			"time_sec":0.0,
+			"name":"intro",
+			"args":{
+				"script_path":"scripts/intro.txt"
+			}
+		}
+	]
+}

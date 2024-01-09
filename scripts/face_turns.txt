@@ -1,0 +1,11 @@
+reset 0 _ 0.5
+reset 1 _ 0.5
+reset 2 _ 0.5
+reset 3 _ 0.5
+turn 0 -90 0.5
+wait 0.5
+turn 1 -90 0.5
+wait 0.5
+turn 2 -90 0.5
+wait 0.5
+turn 3 -90 0.5

@@ -1,0 +1,72 @@
+turn 0 90 0.1
+turn 1 90 0.1
+turn 2 90 0.1
+turn 3 90 0.1
+wait 1
+lean 0 40 1
+lean 1 40 1
+lean 2 40 1
+lean 3 40 1
+wait 1
+lean 0 -40 1.5
+lean 1 -40 1.5
+lean 2 -40 1.5
+lean 3 -40 1.5
+wait 2
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+wait 0.5
+turn 0 -60 1.5
+turn 1 -60 1.5
+turn 2 -60 1.5
+turn 3 -60 1.5
+wait 1.5
+turn 0 -30 0.3
+turn 1 -30 0.3
+turn 2 -30 0.3
+turn 3 -30 0.3
+wait 0.3
+turn 0 -60 0.3
+turn 1 -60 0.3
+turn 2 -60 0.3
+turn 3 -60 0.3
+wait 0.3
+turn 0 60 1.5
+turn 1 60 1.5
+turn 2 60 1.5
+turn 3 60 1.5
+wait 1.5
+turn 0 30 0.3
+turn 1 30 0.3
+turn 2 30 0.3
+turn 3 30 0.3
+wait 0.3
+turn 0 60 0.3
+turn 1 60 0.3
+turn 2 60 0.3
+turn 3 60 0.3
+wait 0.3
+reset 0 _ 3
+reset 1 _ 3
+reset 2 _ 3
+reset 3 _ 3
+wait 3
+turn 0 -90 3
+turn 1 -90 3
+turn 2 -90 3
+turn 3 -90 3
+wait 3
+reset 0 _ 1
+reset 1 _ 1
+reset 2 _ 1
+reset 3 _ 1
+wait 1
+twist 0 30 0.1
+twist 3 -30 0.1
+wait 3
+lean 0 60 0.1
+lean 1 60 0.1
+lean 2 60 0.1
+lean 3 60 0.1

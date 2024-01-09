@@ -1,0 +1,153 @@
+reset 0 _ 1
+reset 1 _ 1
+reset 2 _ 1
+reset 3 _ 1
+wait 2
+turn 0 -15 0.1
+turn 1 -15 0.1
+turn 2 -15 0.1
+turn 3 -15 0.1
+turn 0 15 0.1
+turn 1 15 0.1
+turn 2 15 0.1
+turn 3 15 0.1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+turn 0 30 1
+wait 1
+turn 1 30 1
+wait 0.5
+turn 2 30 1
+wait 0.5
+turn 3 30 1
+wait 1
+turn 0 -30 0.1
+turn 1 -30 0.1
+turn 2 -30 0.1
+turn 3 -30 0.1
+wait 1.5
+turn 0 30 0.1
+turn 1 30 0.1
+turn 2 30 0.1
+turn 3 30 0.1
+wait 0.5
+turn 0 -30 0.1
+turn 1 -30 0.1
+turn 2 -30 0.1
+turn 3 -30 0.1
+wait 0.5
+turn 0 30 0.1
+turn 1 30 0.1
+turn 2 30 0.1
+turn 3 30 0.1
+tilt_in_place 0 -40 0.1
+tilt_in_place 1 -40 0.1
+tilt_in_place 2 -40 0.1
+tilt_in_place 3 -40 0.1
+wait 2
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+wait 0.5
+twist 0 -15 0.1
+twist 1 -15 0.1
+twist 2 -15 0.1
+twist 3 -15 0.1
+twist 0 15 0.1
+twist 1 15 0.1
+twist 2 15 0.1
+twist 3 15 0.1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+wait 1
+turn 0 -15 0.1
+turn 1 15 0.1
+turn 2 -15 0.1
+turn 3 15 0.1
+wait 0.5
+turn 0 15 0.1
+turn 1 -15 0.1
+turn 2 15 0.1
+turn 3 -15 0.1
+wait 0.5
+turn 0 -15 0.1
+turn 1 15 0.1
+turn 2 -15 0.1
+turn 3 15 0.1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+lean 0 60 2
+lean 1 60 2
+lean 2 60 2
+lean 3 60 2
+wait 3
+reset 0 _ 2
+reset 1 _ 2
+reset 2 _ 2
+reset 3 _ 2
+wait 3
+turn 0 -15 0.1
+turn 1 -15 0.1
+turn 2 -15 0.1
+turn 3 -15 0.1
+turn 0 15 0.1
+turn 1 15 0.1
+turn 2 15 0.1
+turn 3 15 0.1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+turn 0 30 1
+wait 1
+turn 1 30 1
+wait 0.5
+turn 2 30 1
+wait 0.5
+turn 3 30 1
+wait 1
+twist 0 -30 1
+twist 1 -30 1
+twist 2 30 1
+twist 3 15 1
+twist 0 30 1
+twist 2 15 0.5
+twist 0 -30 1
+twist 1 -30 1
+twist 2 30 1
+twist 3 -15 1
+twist 0 30 1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+wait 4
+turn 0 30 1
+wait 1
+turn 1 30 1
+wait 0.5
+turn 2 30 1
+wait 0.5
+turn 3 30 1
+wait 1
+reset 0 _ 0.1
+reset 1 _ 0.1
+reset 2 _ 0.1
+reset 3 _ 0.1
+lean 0 60 2
+lean 1 60 2
+lean 2 60 2
+lean 3 60 2
+wait 7
+reset 0 _ 2
+reset 1 _ 2
+reset 2 _ 2
+reset 3 _ 2
+wait 3

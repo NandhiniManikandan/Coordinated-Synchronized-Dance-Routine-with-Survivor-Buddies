@@ -1,0 +1,29 @@
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
+wait 0.5
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
+wait 0.5
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
+wait 0.5
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
+wait 0.5
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
+wait 0.5
+turn 0 30 0.5
+turn 1 30 0.5
+turn 2 30 0.5
+turn 3 30 0.5
